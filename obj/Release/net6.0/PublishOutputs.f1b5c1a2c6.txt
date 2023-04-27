@@ -1,0 +1,7 @@
+C:\Users\HP 840 G3\Videos\WasteIoTAzureWebApp\bin\Release\net6.0\publish\WasteIoTAzureWebApp.exe
+C:\Users\HP 840 G3\Videos\WasteIoTAzureWebApp\bin\Release\net6.0\publish\appsettings.Development.json
+C:\Users\HP 840 G3\Videos\WasteIoTAzureWebApp\bin\Release\net6.0\publish\appsettings.json
+C:\Users\HP 840 G3\Videos\WasteIoTAzureWebApp\bin\Release\net6.0\publish\WasteIoTAzureWebApp.dll
+C:\Users\HP 840 G3\Videos\WasteIoTAzureWebApp\bin\Release\net6.0\publish\WasteIoTAzureWebApp.deps.json
+C:\Users\HP 840 G3\Videos\WasteIoTAzureWebApp\bin\Release\net6.0\publish\WasteIoTAzureWebApp.runtimeconfig.json
+C:\Users\HP 840 G3\Videos\WasteIoTAzureWebApp\bin\Release\net6.0\publish\WasteIoTAzureWebApp.pdb

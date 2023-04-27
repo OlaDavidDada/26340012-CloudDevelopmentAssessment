@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "hi14cQ9+xZvyOo/7fNu+zXlnGnQgD8UU0swkCsjD9sh/wbwBmY5HOIzQ3FE4sEC67CYCazv19rp69if9fg2aZw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP 840 G3\\Videos\\WasteIoTAzureWebApp\\WasteIoTAzureWebApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP 840 G3\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\HP 840 G3\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\HP 840 G3\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\HP 840 G3\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.16\\microsoft.netcore.app.host.win-x64.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
